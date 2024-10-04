@@ -1,6 +1,4 @@
 # dotfiles
-dotfiles
-
 My config that I use for mainly rust and lua development on windows
 
 It's mainly a handful of other configs I've seen and wezterm plugins mashed together but I like it.
