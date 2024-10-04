@@ -10,13 +10,13 @@ If you want to use the wezterm config be aware that the 'Platform specific confi
 
 
 Other tools I use regularly: 
-* (yazi)[https://github.com/sxyazi/yazi] - File manager
-* (lowfi)[https://github.com/talwat/lowfi] - Lofi music player, just found this and I like it a lot.
-* (zoxide)[https://github.com/ajeetdsouza/zoxide] - Smarter cd command for navigating the filesystem rapidly
-* (gitu)[https://github.com/altsem/gitu] - Magit inspired git tui 
-* (starship)[https://starship.rs/] - Colorful prompt using catppuccin theme
+* [https://github.com/sxyazi/yazi](yazi) - File manager
+* [https://github.com/talwat/lowfi](lowfi) - Lofi music player, just found this and I like it a lot.
+* [https://github.com/ajeetdsouza/zoxide](zoxide) - Smarter cd command for navigating the filesystem rapidly
+* [https://github.com/altsem/gitu](gitu) - Magit inspired git tui 
+* [https://starship.rs/](starship) - Colorful prompt using catppuccin theme
 * PowerShell 7
-* (scoop)[scoop.sh] - Packages installed in user space with easy updating and removal and no leftover registry entrys when you delete a folder. I love scoop
+* [scoop.sh](scoop) - Packages installed in user space with easy updating and removal and no leftover registry entrys when you delete a folder. I love scoop
 
 Tools I'm on the lookout for:
 * Some kind of cli notebook or journalling that feels good 
